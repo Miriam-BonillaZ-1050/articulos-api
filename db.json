@@ -5,7 +5,7 @@
     "categoria": "Deportes",
     "marca": "Nike",
     "precio": 499.99,
-    "imagen": "https://example.com/imagenes/futbol.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api1.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "categoria": "Deportes",
     "marca": "Mikasa",
     "precio": 449.99,
-    "imagen": "https://example.com/imagenes/voleibol.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api2.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "categoria": "Deportes",
     "marca": "Spalding",
     "precio": 529.99,
-    "imagen": "https://example.com/imagenes/basquetbol.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api3.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "categoria": "Deportes",
     "marca": "Wilson",
     "precio": 199.99,
-    "imagen": "https://example.com/imagenes/tenis.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api4.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "categoria": "Deportes",
     "marca": "Rawlings",
     "precio": 159.99,
-    "imagen": "https://example.com/imagenes/beisbol.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api5.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "categoria": "Ropa",
     "marca": "Adidas",
     "precio": 299.99,
-    "imagen": "https://example.com/imagenes/playera.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api6.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "categoria": "Ropa",
     "marca": "Nike",
     "precio": 349.99,
-    "imagen": "https://example.com/imagenes/short.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api7.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "categoria": "Accesorios",
     "marca": "Under Armour",
     "precio": 129.99,
-    "imagen": "https://example.com/imagenes/munequera.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api8.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "categoria": "Calzado",
     "marca": "Asics",
     "precio": 1899.99,
-    "imagen": "https://example.com/imagenes/asics.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api9.jpg"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "categoria": "Calzado",
     "marca": "Nike",
     "precio": 2099.99,
-    "imagen": "https://example.com/imagenes/nike.jpg"
+    "imagen": "https://raw.githubusercontent.com/Miriam-BonillaZ-1050/images_tiendadepotiva/refs/heads/main/api10.jpg"
   }
 ]
