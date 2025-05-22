@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Balón de Fútbol",
+    "categoria": "Deportes",
+    "marca": "Nike",
+    "precio": 499.99,
+    "imagen": "https://example.com/imagenes/futbol.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Balón de Voleibol",
+    "categoria": "Deportes",
+    "marca": "Mikasa",
+    "precio": 449.99,
+    "imagen": "https://example.com/imagenes/voleibol.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Balón de Básquetbol",
+    "categoria": "Deportes",
+    "marca": "Spalding",
+    "precio": 529.99,
+    "imagen": "https://example.com/imagenes/basquetbol.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Pelota de Tenis (pack 3)",
+    "categoria": "Deportes",
+    "marca": "Wilson",
+    "precio": 199.99,
+    "imagen": "https://example.com/imagenes/tenis.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Pelota de Béisbol",
+    "categoria": "Deportes",
+    "marca": "Rawlings",
+    "precio": 159.99,
+    "imagen": "https://example.com/imagenes/beisbol.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Playera Deportiva",
+    "categoria": "Ropa",
+    "marca": "Adidas",
+    "precio": 299.99,
+    "imagen": "https://example.com/imagenes/playera.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Short Deportivo",
+    "categoria": "Ropa",
+    "marca": "Nike",
+    "precio": 349.99,
+    "imagen": "https://example.com/imagenes/short.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Muñequeras",
+    "categoria": "Accesorios",
+    "marca": "Under Armour",
+    "precio": 129.99,
+    "imagen": "https://example.com/imagenes/munequera.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Tenis Asics Tokyo",
+    "categoria": "Calzado",
+    "marca": "Asics",
+    "precio": 1899.99,
+    "imagen": "https://example.com/imagenes/asics.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Tenis Nike Air Zoom",
+    "categoria": "Calzado",
+    "marca": "Nike",
+    "precio": 2099.99,
+    "imagen": "https://example.com/imagenes/nike.jpg"
+  }
+]
